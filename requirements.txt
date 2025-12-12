@@ -1,4 +1,7 @@
+streamlit
+pandas
 requests
 beautifulsoup4
-pandas
 lxml
+urllib3
+plotly
